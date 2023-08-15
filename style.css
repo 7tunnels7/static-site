@@ -1,0 +1,778 @@
+.mac-book-air-2,
+.mac-book-air-2 * {
+  box-sizing: border-box;
+}
+.mac-book-air-2 {
+  background: #ffffff;
+  padding: 0px 0px 274px 0px;
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: center;
+  justify-content: flex-start;
+  height: 2693px;
+  position: relative;
+  overflow: hidden;
+}
+.landing {
+  flex-shrink: 0;
+  width: 1372px;
+  height: 1402px;
+  position: relative;
+}
+.footer {
+  width: 1372px;
+  height: 142px;
+  position: absolute;
+  left: 0px;
+  top: 2551px;
+}
+.rectangle-1 {
+  background: #d9d9d9;
+  width: 1372px;
+  height: 142px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.navbar {
+  background: rgba(0, 0, 0, 0.69);
+  padding: 6px 12px 6px 12px;
+  display: flex;
+  flex-direction: row;
+  gap: 74px;
+  align-items: center;
+  justify-content: flex-start;
+  width: 1372px;
+  height: 65px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  overflow: hidden;
+}
+.frame-1 {
+  flex-shrink: 0;
+  width: 1217px;
+  height: 27px;
+  position: relative;
+}
+._7-t-7 {
+  color: #ffffff;
+  text-align: center;
+  font: 400 50px "SA Atlantic Ocean", sans-serif;
+  position: absolute;
+  left: 22px;
+  top: 1px;
+  width: 87px;
+  height: 27px;
+  display: flex;
+  align-items: flex-end;
+  justify-content: center;
+}
+.nav-buttons {
+  width: 692px;
+  height: 26px;
+  position: absolute;
+  left: 235px;
+  top: 0.5px;
+}
+.get-started {
+  color: #ffffff;
+  text-align: left;
+  font: 400 16px/28px "Roboto", sans-serif;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 85px;
+  height: 26px;
+}
+.subscribe {
+  color: #ffffff;
+  text-align: left;
+  font: 400 16px/28px "Roboto", sans-serif;
+  position: absolute;
+  left: 159px;
+  top: 0.5px;
+  width: 75px;
+  height: 25px;
+}
+.contact {
+  color: #ffffff;
+  text-align: left;
+  font: 400 16px/28px "Roboto", sans-serif;
+  position: absolute;
+  left: 308px;
+  top: 0.5px;
+  width: 58px;
+  height: 25px;
+}
+.documentation {
+  color: #ffffff;
+  text-align: left;
+  font: 400 16px/28px "Roboto", sans-serif;
+  position: absolute;
+  left: 440px;
+  top: 0.5px;
+  width: 115px;
+  height: 25px;
+}
+.github {
+  color: #ffffff;
+  text-align: left;
+  font: 400 16px/28px "Roboto", sans-serif;
+  position: absolute;
+  left: 629px;
+  top: 0.5px;
+  width: 49px;
+  height: 25px;
+}
+.donate {
+  color: #ffffff;
+  text-align: left;
+  font: 400 16px/28px "Roboto", sans-serif;
+  position: absolute;
+  left: 752px;
+  top: 0.5px;
+  width: 54px;
+  height: 25px;
+}
+.auth {
+  width: 54px;
+  height: 27px;
+  position: absolute;
+  left: 1000px;
+  top: -4px;
+}
+.signup-button {
+  width: 65px;
+  height: 27px;
+  position: absolute;
+  left: 231px;
+  top: 6px;
+}
+.rectangle {
+  border-radius: 0px;
+  position: absolute;
+  left: 7px;
+  top: -5px;
+  overflow: visible;
+}
+.sign-up {
+  color: #000000;
+  text-align: left;
+  font: 400 14px/24px "Roboto", sans-serif;
+  position: absolute;
+  left: 25px;
+  top: 0px;
+  width: 52px;
+  height: 21px;
+}
+.login {
+  color: #ffffff;
+  text-align: left;
+  font: 400 16px/28px "Roboto", sans-serif;
+  position: absolute;
+  left: 173px;
+  top: 6px;
+  width: 41px;
+  height: 25px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.landing-logo-lines {
+  width: 1368px;
+  height: 272px;
+  position: absolute;
+  left: 2px;
+  top: 49px;
+}
+._7-tunnels-7 {
+  color: #000000;
+  text-align: left;
+  font: 400 100px/24px "SA Atlantic Ocean", sans-serif;
+  position: absolute;
+  left: 410px;
+  top: 198px;
+  width: 587px;
+  height: 54px;
+}
+.line-left {
+  background: #000000;
+  width: 361px;
+  height: 3px;
+  position: absolute;
+  left: -7px;
+  top: 225px;
+}
+.line-left2 {
+  background: #000000;
+  width: 361px;
+  height: 3px;
+  position: absolute;
+  left: 1013px;
+  top: 225px;
+}
+.get-started-get-a-demo-buttons {
+  width: 1372px;
+  height: 244px;
+  position: absolute;
+  left: 0px;
+  top: 305px;
+}
+.buttons {
+  width: 406px;
+  height: 48px;
+  position: absolute;
+  left: 483px;
+  top: 173px;
+}
+.get-a-demo-button {
+  width: 191px;
+  height: 48px;
+  position: absolute;
+  left: 211px;
+  top: 0px;
+}
+.drop-shadow {
+  background: #ffffff;
+  border-radius: 8px;
+  width: 188px;
+  height: 48px;
+  position: absolute;
+  left: 3px;
+  top: 0px;
+  box-shadow: 0px 30px 60px 0px rgba(0, 0, 0, 0.2);
+}
+.drop-shadow2 {
+  background: #ffffff;
+  border-radius: 8px;
+  width: 185px;
+  height: 48px;
+  position: absolute;
+  left: 2.5px;
+  top: 0px;
+}
+.take-a-glance {
+  color: rgba(0, 0, 0, 0.3);
+  text-align: center;
+  font: 400 16px/24px "Roboto", sans-serif;
+  position: absolute;
+  left: 0px;
+  top: 13px;
+  width: 191px;
+}
+.start-tunneling-button {
+  width: 188px;
+  height: 48px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.drop-shadow3 {
+  background: #000000;
+  border-radius: 8px;
+  width: 188px;
+  height: 48px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  box-shadow: 0px 30px 60px 0px rgba(0, 0, 0, 0.2);
+}
+.rectangle2 {
+  border-radius: 0px;
+  position: absolute;
+  left: 30.5px;
+  top: 86px;
+  overflow: visible;
+}
+.start-tunneling {
+  color: rgba(255, 255, 255, 0.3);
+  text-align: center;
+  font: 400 16px/24px "Roboto", sans-serif;
+  position: absolute;
+  left: 0px;
+  top: 13px;
+  width: 188px;
+  height: 20px;
+}
+.content {
+  padding: 24px 52px 24px 52px;
+  display: flex;
+  flex-direction: row;
+  gap: 36px;
+  align-items: center;
+  justify-content: flex-start;
+  width: 1372px;
+  height: 869px;
+  position: absolute;
+  left: 0px;
+  top: 533px;
+}
+.terminal-browser-demo {
+  flex-shrink: 0;
+  width: 801px;
+  height: 652px;
+  position: relative;
+}
+.terminal {
+  position: absolute;
+  inset: 0;
+}
+.terminal-frame {
+  width: 486px;
+  height: 33.49px;
+  position: absolute;
+  left: 61px;
+  top: 108px;
+}
+.rectangle3 {
+  background: #ffffff;
+  border-radius: 5px;
+  width: 486px;
+  height: 300px;
+  position: absolute;
+  left: 0px;
+  top: 1px;
+  box-shadow: 0px 8px 30px 0px rgba(0, 0, 0, 0.12);
+}
+.rectangle4 {
+  width: 437.4px;
+  height: 32px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.rectangle5 {
+  background: #ffffff;
+  width: 78.3px;
+  height: 1px;
+  position: absolute;
+  left: 72px;
+  top: 32.22px;
+}
+.rectangle6 {
+  background: #ffffff;
+  width: 128.7px;
+  height: 32px;
+  position: absolute;
+  left: 72px;
+  top: 1px;
+}
+.rectangle7 {
+  width: 1.8px;
+  height: 21px;
+  position: absolute;
+  left: 47.7px;
+  top: 68px;
+}
+.rectangle8 {
+  width: 437.4px;
+  height: 38px;
+  position: absolute;
+  left: 48.6px;
+  top: 190px;
+}
+.rectangle9 {
+  background: #eaeaea;
+  width: 1px;
+  height: 32px;
+  position: absolute;
+  left: 223px;
+  top: 0px;
+}
+.rectangle10 {
+  background: #eaeaea;
+  width: 1px;
+  height: 32px;
+  position: absolute;
+  left: 71px;
+  top: 0px;
+}
+.rectangle11 {
+  background: #eaeaea;
+  width: 1px;
+  height: 72px;
+  position: absolute;
+  left: 0px;
+  top: 32px;
+  transform-origin: 0 0;
+  transform: rotate(-90deg) scale(1, 1);
+}
+.ellipse-1 {
+  background: #27c93f;
+  border-radius: 50%;
+  width: 13px;
+  height: 13px;
+  position: absolute;
+  left: 52px;
+  top: 9px;
+}
+.ellipse-2 {
+  background: #ffbd2e;
+  border-radius: 50%;
+  width: 13px;
+  height: 13px;
+  position: absolute;
+  left: 31px;
+  top: 9px;
+}
+.ellipse-3 {
+  background: #ff5f56;
+  border-radius: 50%;
+  width: 13px;
+  height: 13px;
+  position: absolute;
+  left: 11px;
+  top: 9px;
+}
+.rectangle12 {
+  background: #eaeaea;
+  width: 1px;
+  height: 263px;
+  position: absolute;
+  left: 223px;
+  top: 32px;
+  transform-origin: 0 0;
+  transform: rotate(-90deg) scale(1, 1);
+}
+.mantragohil-mantra {
+  color: #666666;
+  text-align: left;
+  font: 400 12px "Roboto", sans-serif;
+  position: absolute;
+  left: 91px;
+  top: 9px;
+  width: 124px;
+}
+.terminal-input {
+  text-align: left;
+  font: 400 14px/24px "Space Mono", sans-serif;
+  position: absolute;
+  left: 78px;
+  top: 154.05px;
+  width: 454px;
+  height: 252.22px;
+}
+.terminal-input-span {
+  color: #000000;
+  font: 400 14px/24px "Space Mono", sans-serif;
+}
+.terminal-input-span2 {
+  color: #27c93f;
+  font: 400 14px/24px "Space Mono", sans-serif;
+}
+.terminal-input-span3 {
+  color: #000000;
+  font: 400 14px/24px "Space Mono", sans-serif;
+}
+.browser {
+  width: 486px;
+  height: 310px;
+  position: absolute;
+  left: 214px;
+  top: 289px;
+}
+.browser-drop-shadow {
+  width: 486px;
+  height: 310px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.rectangle13 {
+  background: #ffffff;
+  border-radius: 5px;
+  width: 486px;
+  height: 310px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  box-shadow: 0px 30px 60px 0px rgba(0, 0, 0, 0.12);
+}
+.browser-frame {
+  width: 486px;
+  height: 310px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.vector {
+  position: absolute;
+  left: 330.5px;
+  top: 14px;
+  overflow: visible;
+}
+.vector2 {
+  position: absolute;
+  left: 323.5px;
+  top: 13.5px;
+  overflow: visible;
+}
+.rectangle14 {
+  background: #eaeaea;
+  width: 486px;
+  height: 1px;
+  position: absolute;
+  left: 0px;
+  top: 37.72px;
+}
+.ellipse-12 {
+  background: #27c93f;
+  border-radius: 50%;
+  width: 13px;
+  height: 13px;
+  position: absolute;
+  left: 53px;
+  top: 12px;
+}
+.ellipse-22 {
+  background: #ffbd2e;
+  border-radius: 50%;
+  width: 13px;
+  height: 13px;
+  position: absolute;
+  left: 32px;
+  top: 12px;
+}
+.ellipse-32 {
+  background: #ff5f56;
+  border-radius: 50%;
+  width: 13px;
+  height: 13px;
+  position: absolute;
+  left: 12px;
+  top: 12px;
+}
+.rectangle15 {
+  background: #f6f6f6;
+  border-radius: 3px;
+  width: 206px;
+  height: 28px;
+  position: absolute;
+  left: 140px;
+  top: 4px;
+}
+.mantragohil-7-t-7-online {
+  color: #000000;
+  text-align: left;
+  font: 400 12px "Roboto", sans-serif;
+  position: absolute;
+  left: 177px;
+  top: 11px;
+  width: 125px;
+}
+.browser-output {
+  width: 423.62px;
+  height: 20.07px;
+  position: absolute;
+  left: 27px;
+  top: 230px;
+}
+.rectangle16 {
+  background: #282c34;
+  border-radius: 0px 0px 5px 5px;
+  width: 486px;
+  height: 272px;
+  position: absolute;
+  left: -27px;
+  top: -192px;
+}
+.edit {
+  color: #ffffff;
+  text-align: center;
+  font: 400 15px "Roboto", sans-serif;
+  position: absolute;
+  left: 0px;
+  top: 2.01px;
+  width: 202.92px;
+  height: 18.07px;
+}
+.src-app-js {
+  color: #ffffff;
+  text-align: center;
+  font: 400 15px "Source Code Pro", sans-serif;
+  position: absolute;
+  left: 22.8px;
+  top: 0px;
+  width: 285.11px;
+  height: 11.04px;
+}
+.and-save-to-reload {
+  color: #ffffff;
+  text-align: center;
+  font: 400 15px "Roboto", sans-serif;
+  position: absolute;
+  left: 133.44px;
+  top: 1px;
+  width: 290.18px;
+  height: 10.04px;
+}
+.learn-react {
+text-decoration: none;
+  color: #000000;
+  text-align: center;
+  font: 400 14px "Roboto", sans-serif;
+  position: absolute;
+  left: 106.05px;
+  top: 28.13px;
+  width: 221.19px;
+  height: 19.07px;
+}
+.vector3 {
+  position: absolute;
+  left: 161.55px;
+  top: -146.82px;
+  transform: translate(0.18px, -123.87px);
+  overflow: visible;
+  animation: rotation 9s infinite linear;
+}
+@keyframes rotation {
+    from {
+      transform: rotate(0deg);
+    }
+    to {
+      transform: rotate(359deg);
+    }
+  }
+.vector4 {
+  position: absolute;
+  left: 205.24px;
+  top: -96.76px;
+  overflow: visible;
+}
+.arrow {
+  position: absolute;
+  left: 87px;
+  top: 69.78px;
+  transform: translate(0px, -5.78px);
+  overflow: visible;
+}
+.sudo-required-for-firewall {
+    font-family: 'Gochi Hand', cursive;
+    font-family: 'Source Code Pro', monospace;
+  color: #000000;
+  text-align: left;
+  font: 400 20px/36px "Gochi Hand", sans-serif;
+  position: absolute;
+  left: 158px;
+  top: 24px;
+  width: 133px;
+  height: 64px;
+}
+.features {
+  flex-shrink: 0;
+  width: 426px;
+  height: 936px;
+  position: relative;
+}
+.the-tunnel-every-developer-needs {
+  width: 369px;
+  height: 156px;
+  position: absolute;
+  left: 11px;
+  top: 125px;
+}
+.svg {
+  position: absolute;
+  left: 0px;
+  top: 1px;
+  overflow: visible;
+}
+.the-tunnel-every-developer-needs2 {
+  color: #171717;
+  text-align: left;
+  font: 400 18px "Roboto", sans-serif;
+  position: absolute;
+  left: 44px;
+  top: 0.5px;
+  width: 309px;
+}
+.a-powerful-network-tunneling-solution-with-aes-security-and-reverse-ssh-support-experience-enhanced-security-flexibility-and-seamless-communication-across-networks {
+  color: #666666;
+  text-align: left;
+  font: 400 16px/28px "Roboto", sans-serif;
+  position: absolute;
+  left: 4px;
+  top: 44px;
+  width: 365px;
+}
+.easy-integration-with-backend {
+  width: 380px;
+  height: 175px;
+  position: absolute;
+  left: 11px;
+  top: 378px;
+}
+.easy-integration-with-backend-logo {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  overflow: visible;
+}
+.easy-integration-with-your-backend {
+  color: #171717;
+  text-align: left;
+  font: 400 19px "Roboto", sans-serif;
+  position: absolute;
+  left: 41px;
+  top: 0px;
+  width: 331px;
+}
+.dedicated-libraries-for-node-js-python-and-rust-seamlessly-incorporate-secure-network-tunneling-into-your-projects-regardless-of-your-preferred-language-simplify-your-development-process-and-ensure-robust-security-with-ease {
+  color: #666666;
+  text-align: left;
+  font: 400 16px/28px "Roboto", sans-serif;
+  position: absolute;
+  left: 0px;
+  top: 35px;
+  width: 380px;
+}
+.end-to-end-tunneling-for-localhost {
+  width: 402px;
+  height: 175px;
+  position: absolute;
+  left: 11px;
+  top: 648px;
+}
+.end-to-end-tunneling-localhost-svg {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  overflow: visible;
+}
+.end-to-end-tunneling-for-localhost2 {
+  color: #171717;
+  text-align: left;
+  font: 400 19px "Roboto", sans-serif;
+  position: absolute;
+  left: 41px;
+  top: 2px;
+  width: 328px;
+}
+.seamless-end-to-end-tunneling-for-localhost-securely-connect-and-access-resources-from-your-local-development-environment-with-ease-simplify-your-workflow-and-unlock-the-full-potential-of-your-localhost-effortlessly {
+  color: #666666;
+  text-align: left;
+  font: 400 16px/28px "Roboto", sans-serif;
+  position: absolute;
+  left: 0px;
+  top: 35px;
+  width: 402px;
+}
+.coming-soon {
+    top: 1500px;
+  flex-shrink: 0;
+  width: 1368px;
+  height: 788px;
+  position: absolute;
+}
+.serving-soon {
+  color: #000000;
+  text-align: center;
+  font: 400 100px/24px "SA Atlantic Ocean", sans-serif;
+  position: absolute;
+  left: 174px;
+  top: 198px;
+  width: 1021px;
+  height: 54px;
+}
